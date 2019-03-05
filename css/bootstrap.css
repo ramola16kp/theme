@@ -1,0 +1,12 @@
+.navbar .navbar-brand{
+	color: #fff;
+	text-transform: uppercase;
+}
+.navbar-nav .nav-item{
+	margin: 0 20px;
+	color: #fff;
+}
+.navbar-nav .nav-item .nav-link{
+	padding: 0 20px;
+	text-transform: uppercase;
+}
